@@ -39,6 +39,7 @@ This is a simple HTTP server implemented in C++ using Winsock. The server listen
 4. **Run the compiled executable**:
 
    ```bash
+   g++ server.cpp -o server.exe -lWs2_32
    ./server.exe
    ```
 
