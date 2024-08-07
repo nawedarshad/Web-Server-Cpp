@@ -1,6 +1,4 @@
-# Web-Server-CPP
-
-Sure! Here's a `README.md` file for your project:
+# Web Server CPP
 
 ```markdown
 # Simple HTTP Server
