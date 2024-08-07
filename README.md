@@ -86,6 +86,3 @@ int main(int argc, char const *argv[])
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Copy this content into a file named `README.md` in the same directory as your `main.cpp`. This `README.md` file provides a comprehensive guide on what the project is, how to run it, and a detailed explanation of the code.
