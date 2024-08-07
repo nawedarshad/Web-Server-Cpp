@@ -82,7 +82,3 @@ int main(int argc, char const *argv[])
 ## Error Handling
 
 - The server prints error messages to the console if it fails to initialize Winsock, create or bind the socket, start listening, accept connections, or read client requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
